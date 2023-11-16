@@ -1,0 +1,25 @@
+# .NET Core
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.vscode
+*.vs
+*.suo
+*.cache
+*.log
+*.vsix
+*.pubxml
+*.Publish.xml
+*.csproj.user
+*.obj
+*.nuget.props
+*.nuget.targets
+*.xproj
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/bin/
+**/obj/
